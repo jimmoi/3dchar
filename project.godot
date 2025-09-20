@@ -11,5 +11,10 @@ config_version=5
 [application]
 
 config/name="3dchar"
+run/main_scene="uid://cv7fijrvlm783"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[filesystem]
+
+import/blender/enabled=false
