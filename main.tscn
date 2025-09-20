@@ -30,7 +30,7 @@ transform = Transform3D(1, 0, 0, 0, 0.948876, -0.315649, 0, 0.315649, 0.948876, 
 size = 2.905
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
-transform = Transform3D(0.959417, -1.23262e-08, 0.28199, -0.266484, -0.327037, 0.906661, 0.092221, -0.945012, -0.313765, 0, 2.27962, 0)
+transform = Transform3D(0.959417, -1.71007e-07, 0.28199, -0.180822, 0.767344, 0.615213, -0.216383, -0.641236, 0.736203, 0, 2.27962, 0)
 shadow_enabled = true
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="."]
